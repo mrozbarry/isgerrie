@@ -1,0 +1,23 @@
+{
+  "name": "@mrbarrysoftware/isgerrie",
+  "version": "1.0.0",
+  "description": "Tests to see if input is Gerrie",
+  "main": "index.js",
+  "module": "src/index.js",
+  "scripts": {
+    "test": "jest",
+    "build": "cp ./src/index.js ./index.js",
+    "prepublishOnly": "npm run build"
+  },
+  "keywords": [
+    "Gerrie",
+    "Skrunky",
+    "nodejs"
+  ],
+  "author": "MrBarry Software",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^25.1.0"
+  },
+  "private": false
+}
