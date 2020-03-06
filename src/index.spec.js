@@ -11,6 +11,8 @@ describe('Gerrie', () => {
       'gerry',
       'Jerry',
       'jerry',
+      'skrinkle',
+      'Skrinkle',
     ];
 
     for(const gerrie of shouldBeGerries) {
