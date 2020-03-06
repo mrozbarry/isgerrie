@@ -1,5 +1,6 @@
 const gerries = [
   /[Ss]krunky/,
+  /[Ss]krinkle/,
   /[Gg]err(ie|y)/,
   /[Jj]erry/,
 ];
