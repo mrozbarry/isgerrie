@@ -1,6 +1,6 @@
 {
   "name": "@mrbarrysoftware/isgerrie",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Tests to see if input is Gerrie",
   "main": "index.js",
   "module": "src/index.js",
